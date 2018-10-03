@@ -39,6 +39,8 @@ download.py       README.md  softmax_regression.py
 
 ### 下載MNIST資料集，並列印一些基本資訊：python download.py
 
+https://github.com/tensorflow/tensorflow/blob/master/tensorflow/contrib/learn/python/learn/datasets/mnist.py
+
 ```
 # coding:utf-8
 # 从tensorflow.examples.tutorials.mnist引入模块。这是TensorFlow为了教学MNIST而提前编制的程序
