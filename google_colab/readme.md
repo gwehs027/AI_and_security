@@ -27,3 +27,7 @@ import torch
 !apt-get -qq install -y libsm6 libxext6 && pip install -q -U opencv-python
 import cv2
 ```
+# 第一次測試gym==>成功2018.10.26
+```
+https://colab.research.google.com/github/MyDearGreatTeacher/AI_and_security/blob/master/gym_into.ipynb#scrollTo=F2TFUMJ_UyJc
+```
