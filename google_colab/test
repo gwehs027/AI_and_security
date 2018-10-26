@@ -1,0 +1,26 @@
+上傳檔案到Colab
+上傳檔案是非常簡單的，只要引入google.colab後，使用files.upload() 就能夠產生上傳表單，此時cell會進入等待狀態，選取你本機的檔案即可上傳。
+
+參考程式碼如下：
+
+from google.colab import files
+uploaded = files.upload()
+
+試著上傳前面firestore使用的serviceAccount.json
+
+
+用 ls 檢視檔案
+上傳檔案後，想知道檔案在哪，是可以使用linux的指令 ls 來查詢的。只要在cell中輸入 !ls 即可。
+
+
+可以發現serviceAccount.json 已經出現在runtime的目錄中了。透過ls甚至可以查看整個runtime的 /bin下面有哪些東西，
+
+
+當然很多linux的指令都是可以下的，比方說 rm，mkdir都能使用上，再作進一步的檔案操作時請小心。來點有趣的，甚至可以偷偷查看一下runtime使用的nodejs版本
+
+
+下載檔案
+下載已經在runtime上面的檔案同樣也非常簡單，僅需使用files.download(檔名) 即可。
+
+from google.colab import files
+files.download('serviceAccount.json')
