@@ -3,7 +3,8 @@
 Colaboratory 是一個 Google 研究項目，旨在幫助傳播機器學習培訓和研究成果。
 它是一個 Jupyter 筆記本環境，不需要進行任何設置就可以使用，並且完全在雲端運行。
 
-Colaboratory 筆記本存儲在 Google 雲端硬碟 (https://drive.google.com/) 中，並且可以共用，就如同您使用 Google 文檔或表格一樣。
+Colaboratory 筆記本存儲在 Google 雲端硬碟 (https://drive.google.com/) 中，並且可以共用，
+就如同您使用 Google 文檔或表格一樣。
 
 Colaboratory 可免費使用。
 
