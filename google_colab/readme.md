@@ -19,11 +19,12 @@ https://makerpro.cc/2018/06/learn-ai-by-google-colaboratory/
 ★https://eventil.com/events/python-class-deep-reinforcement-learning-with-openai-gym[漂亮的學習環境]
 ```
 
-Colaboratory自帶的框架為Tensorflow，也可以自己安裝別的函式庫。
+
 
 # 打造你的GPU-based AI platform
 
 ```
+Colaboratory自帶的框架為Tensorflow，也可以自己安裝別的函式庫。
 為了import 不在Colab上的庫，可以直接使用!pip install <package name> 
 或者!apt-get install <package name> 來做安裝
 ```
