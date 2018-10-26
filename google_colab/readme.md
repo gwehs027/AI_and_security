@@ -16,7 +16,7 @@ https://blog.csdn.net/qq_29592829/article/details/79444466
 http://www.sohu.com/a/213845910_465975
 https://makerpro.cc/2018/06/learn-ai-by-google-colaboratory/
 ★http://bangqu.com/t3y76W.html
-
+★https://eventil.com/events/python-class-deep-reinforcement-learning-with-openai-gym[漂亮的學習環境]
 ```
 
 Colaboratory自帶的框架為Tensorflow，也可以自己安裝別的函式庫。
@@ -65,4 +65,8 @@ import cv2
 ### 第一次測試gym==>成功2018.10.26
 ```
 https://colab.research.google.com/github/MyDearGreatTeacher/AI_and_security/blob/master/gym_into.ipynb#scrollTo=F2TFUMJ_UyJc
+```
+### 第2次測試ChainerRL Quickstart Guide==>成功2018.10.26
+```
+https://colab.research.google.com/github/MyDearGreatTeacher/google_colab/blob/master/quickstart.ipynb#scrollTo=Mg8j6iCiwMVg
 ```
