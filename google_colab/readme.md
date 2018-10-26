@@ -16,6 +16,11 @@ https://blog.csdn.net/qq_29592829/article/details/79444466
 http://www.sohu.com/a/213845910_465975
 https://makerpro.cc/2018/06/learn-ai-by-google-colaboratory/
 ★http://bangqu.com/t3y76W.html
+https://john850512.wordpress.com/2018/07/13/7-13colab%E4%BB%8B%E7%B4%B9-%E5%A6%82%E4%BD%95%E5%9C%A8colab%E4%B8%8A%E4%BD%BF%E7%94%A8tensorboard/
+https://www.234du.com/1154.html
+https://hk.saowen.com/a/a809cd4385115f4925a41d5dea5ed1d3855c978cbc2d80360fb5e3e18ba1ef3b
+https://blog.csdn.net/qq_41185868/article/details/79638292
+https://eventil.com/events/python-class-deep-reinforcement-learning-with-openai-gym
 ★https://eventil.com/events/python-class-deep-reinforcement-learning-with-openai-gym[漂亮的學習環境]
 ```
 
