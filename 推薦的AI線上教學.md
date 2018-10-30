@@ -188,6 +188,8 @@ Maxim Lapan
 June 2018
 https://www.packtpub.com/big-data-and-business-intelligence/deep-reinforcement-learning-hands
 ```
+
+# OpenAI Gym
 ```
 Hands-On Intelligent Agents with OpenAI Gym
 Praveen Palanisamy
