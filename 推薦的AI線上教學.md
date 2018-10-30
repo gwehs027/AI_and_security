@@ -2,7 +2,34 @@
 
 
 ```
-
+Python for Beginners: Learn Python Programming (Python 3) [Video]
+Monday, October 8, 2018
+https://www.packtpub.com/application-development/python-beginners-learn-python-programming-python-3-video
+```
+```
+Python For Offensive PenTest: A Complete Practical Course [Video]
+Hussam Khrais
+Friday, September 15, 2017
+https://www.packtpub.com/application-development/python-offensive-pentest-complete-practical-course-video
+```
+```
+Learning Python Web Penetration Testing [Video]
+Christian Martorella
+Thursday, March 31, 2016
+https://www.packtpub.com/web-development/learning-python-web-penetration-testing-video
+```
+```
+Python Digital Forensics [Video]
+Daryl Bennett
+Friday, September 28, 2018
+https://www.packtpub.com/web-development/python-digital-forensics-video
+https://github.com/PacktPublishing/Python-Digital-Forensics
+```
+```
+Mastering Machine Learning for Penetration Testing
+Chiheb Chebbi
+June 2018
+https://www.packtpub.com/networking-and-servers/mastering-machine-learning-penetration-testing
 ```
 
 # Python Data analysis
