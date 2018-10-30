@@ -60,7 +60,7 @@ Chris Dalla Villa
 Friday, September 28, 2018 
 https://www.packtpub.com/big-data-and-business-intelligence/beginning-data-science-python-and-jupyter-elearning
 ```
-# Data Visualization
+### Data Visualization
 ```
 Mastering Data Visualization with D3.js [Video]
 Benjamin Keller
