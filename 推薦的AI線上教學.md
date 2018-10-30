@@ -5,6 +5,12 @@ Python for Beginners: Learn Python Programming (Python 3) [Video]
 Monday, October 8, 2018
 https://www.packtpub.com/application-development/python-beginners-learn-python-programming-python-3-video
 ```
+```
+Basic and Low-level Python Network Attacks [Video]
+Sam Bowne
+Thursday, August 31, 2017
+https://www.packtpub.com/networking-and-servers/basic-and-low-level-python-network-attacks-video
+```
 
 ```
 Python For Offensive PenTest: A Complete Practical Course [Video]
@@ -48,8 +54,12 @@ https://www.packtpub.com/networking-and-servers/mastering-machine-learning-penet
 Data Analysis with Pandas and Python
 
 ```
-
-
+```
+Beginning Data Science with Python and Jupyter [eLearning]
+Chris Dalla Villa
+Friday, September 28, 2018 
+https://www.packtpub.com/big-data-and-business-intelligence/beginning-data-science-python-and-jupyter-elearning
+```
 # Data Visualization
 ```
 Mastering Data Visualization with D3.js [Video]
@@ -90,8 +100,19 @@ https://www.packtpub.com/application-development/master-computer-vision-opencv3-
 ```
 
 ```
+Mastering Natural Language Processing with Python [Video]
+Deepti Chopra, Iti Mathur, Nisheeth Joshi
+Friday, August 31, 2018
+https://www.packtpub.com/big-data-and-business-intelligence/mastering-natural-language-processing-python-video
+https://github.com/PacktPublishing/Mastering-Natural-Language-Processing-with-Python-Video
+```
 
-
+```
+Next Generation Natural Language Processing with Python [Video]
+Alexis Rutherford
+Thursday, March 29, 2018
+https://www.packtpub.com/big-data-and-business-intelligence/next-generation-natural-language-processing-python-video
+https://github.com/PacktPublishing/Next-Generation-Natural-Language-Processing-with-Python
 ```
 
 # GAN:Generative Adversarial Networks
@@ -122,9 +143,3 @@ Friday, September 28, 2018
 https://www.packtpub.com/big-data-and-business-intelligence/advanced-practical-reinforcement-learning-video
 ```
 
-
-
-```
-
-
-```
