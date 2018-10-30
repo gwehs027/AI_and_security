@@ -5,7 +5,16 @@ Web Security: Common Vulnerabilities And Their Mitigation
 ```
 # Node.js Security
 ```
-
+Node.js, Express and MongoDB Dev to Deployment [Video]
+Brad Traversy
+Tuesday, May 29, 2018
+https://www.packtpub.com/application-development/nodejs-express-and-mongodb-dev-deployment-video
+```
+```
+Angular and Node.js - The MEAN Stack Guide [Video]
+Maximilian Schwarzmüller
+Monday, October 29, 2018
+https://www.packtpub.com/application-development/angular-and-nodejs-mean-stack-guide-video
 ```
 ```
 Node.js Application Security 
@@ -74,10 +83,18 @@ Getting Started with Microservices in PHP
 
 ```
 
-
-
+# NOSQL security
 ```
-
+Introduction to the MongoDB [Video]
+Bogdan Stashchuk
+Tuesday, October 23, 2018 
+https://www.packtpub.com/business/introduction-mongodb-video
+```
+```
+MongoDB - The Complete Developer's Guide [Video]
+Maximilian Schwarzmüller
+Monday, October 29, 2018 
+https://www.packtpub.com/web-development/mongodb-complete-developers-guide-video
 ```
 
 
