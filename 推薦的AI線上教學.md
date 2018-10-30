@@ -35,13 +35,11 @@ https://www.packtpub.com/web-development/d3js-data-visualization-projects-video
 
 # Machine learning with Python
 
-
 ```
 The Complete Machine Learning Course with Python [Video]
 Anthony NG, Rob Percival
 Monday, October 29, 2018
 https://www.packtpub.com/application-development/complete-machine-learning-course-python-video
-
 ```
 ```
 Master Computer Vision OpenCV3 in Python and Machine Learning [Video]
@@ -61,11 +59,9 @@ https://www.packtpub.com/application-development/master-computer-vision-opencv3-
 
 # GAN:Generative Adversarial Networks
 
-
 ```
 Learning Generative Adversarial Networks 
-
-
+https://www.packtpub.com/big-data-and-business-intelligence/learning-generative-adversarial-networks-video
 ```
 
 # RL:Reinforcement Learning
