@@ -99,20 +99,60 @@ https://www.packtpub.com/application-development/complete-machine-learning-cours
 Master Computer Vision OpenCV3 in Python and Machine Learning [Video]
 https://www.packtpub.com/application-development/master-computer-vision-opencv3-python-and-machine-learning-video
 ```
-# Deep learning with Python
+# Deep learning with Tensorflow|Python
+
+```
+Python Deep Learning Solutions [Video]
+Indra den Bakker
+Wednesday, June 27, 2018
+https://www.packtpub.com/big-data-and-business-intelligence/python-deep-learning-solutions-video
+
+```
+
+```
+Hands-on Deep Learning with TensorFlow [Video]
+Salil Vishnu Kapur
+Tuesday, July 31, 2018
+
+
+```
+# CNN:Convolutional Neural Networks
+```
+Hands-On Convolutional Neural Networks with TensorFlow
+Iffat Zafar et al.
+August 2018
+https://www.packtpub.com/big-data-and-business-intelligence/practical-convolutional-neural-networks-video
+https://github.com/PacktPublishing/Practical-Convolutional-Neural-Networks-Video-
+```
+
+```
+Hands-On Convolutional Neural Networks with TensorFlow
+Iffat Zafar et al.
+August 2018
+https://www.packtpub.com/big-data-and-business-intelligence/hands-convolutional-neural-networks-tensorflow
+```
+
+```
+Practical Convolutional Neural Networks
+Mohit Sewak, Md. Rezaul Karim, Pradeep Pujari
+February 2018
+https://www.packtpub.com/big-data-and-business-intelligence/practical-convolutional-neural-networks
 
 ```
 
 
 ```
-
+Machine Learning and Tensorflow - The Google Cloud Approach [Video]
+Notez (Rent a Mind)
+Wednesday, September 5, 2018 
+https://www.packtpub.com/application-development/machine-learning-and-tensorflow-google-cloud-approach-video
 ```
 
-
 ```
-
-```
-
+TensorFlow 1.x Deep Learning Recipes for Artificial Intelligence Applications [Video]
+Alvaro Fuentes
+Thursday, June 28, 2018
+https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-1x-deep-learning-recipes-artificial-intelligence-appli
 
 ```
 
