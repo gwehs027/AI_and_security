@@ -49,16 +49,23 @@ https://www.packtpub.com/networking-and-servers/mastering-machine-learning-penet
 ```
 
 # Python Data analysis
+```
+Beginning Data Science with Python and Jupyter [eLearning]
+Chris Dalla Villa
+Friday, September 28, 2018 
+https://www.packtpub.com/big-data-and-business-intelligence/beginning-data-science-python-and-jupyter-elearning
+```
 
 ```
 Data Analysis with Pandas and Python
 
 ```
 ```
-Beginning Data Science with Python and Jupyter [eLearning]
-Chris Dalla Villa
-Friday, September 28, 2018 
-https://www.packtpub.com/big-data-and-business-intelligence/beginning-data-science-python-and-jupyter-elearning
+Hands-On Data Analysis with NumPy and Pandas
+Curtis Miller
+June 2018
+https://www.packtpub.com/big-data-and-business-intelligence/hands-data-analysis-numpy-and-pandas
+
 ```
 ### Data Visualization
 ```
@@ -100,6 +107,33 @@ https://www.packtpub.com/application-development/master-computer-vision-opencv3-
 ```
 
 ```
+
+
+```
+
+```
+
+
+```
+
+```
+Hands-on Artificial Intelligence with TensorFlow [Video]
+Saikat Basak
+Friday, March 30, 2018
+https://www.packtpub.com/big-data-and-business-intelligence/hands-artificial-intelligence-tensorflow-video
+https://github.com/PacktPublishing/Hands-on-Artificial-Intelligence-with-TensorFlow
+```
+### Natural Language Processing
+
+
+```
+Natural Language Processing with Python [Video]
+Tyler Edwards
+Friday, December 29, 2017
+https://www.packtpub.com/big-data-and-business-intelligence/natural-language-processing-python-video?utm_source=github&utm_medium=repository&utm_campaign=9781787286085
+```
+
+```
 Mastering Natural Language Processing with Python [Video]
 Deepti Chopra, Iti Mathur, Nisheeth Joshi
 Friday, August 31, 2018
@@ -113,6 +147,12 @@ Alexis Rutherford
 Thursday, March 29, 2018
 https://www.packtpub.com/big-data-and-business-intelligence/next-generation-natural-language-processing-python-video
 https://github.com/PacktPublishing/Next-Generation-Natural-Language-Processing-with-Python
+```
+```
+Hands-On Natural Language Processing with Python
+Rajesh Arumugam, Rajalingappaa Shanmugamani
+July 2018
+https://www.packtpub.com/big-data-and-business-intelligence/hands-natural-language-processing-python?utm_source=github&utm_medium=repository&utm_campaign=9781789139495
 ```
 
 # GAN:Generative Adversarial Networks
@@ -142,4 +182,66 @@ Lauren Washington
 Friday, September 28, 2018 
 https://www.packtpub.com/big-data-and-business-intelligence/advanced-practical-reinforcement-learning-video
 ```
+```
+Deep Reinforcement Learning Hands-On
+Maxim Lapan
+June 2018
+https://www.packtpub.com/big-data-and-business-intelligence/deep-reinforcement-learning-hands
+```
+```
+Hands-On Intelligent Agents with OpenAI Gym
+Praveen Palanisamy
+July 2018
+https://www.packtpub.com/big-data-and-business-intelligence/hands-intelligent-agents-openai-gym
+```
 
+# PyTorch
+
+```
+Deep Learning with PyTorch [Video]
+Anand Saha
+Monday, April 30, 2018
+https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-pytorch-video
+
+```
+
+```
+Deep Learning Projects with PyTorch [Video]
+AshishSingh Bhatia
+Wednesday, June 27, 2018
+https://www.packtpub.com/application-development/deep-learning-projects-pytorch-video
+
+```
+
+```
+Hands-On Deep Learning with PyTorch
+Sherin Thomas
+December 2018
+https://www.packtpub.com/big-data-and-business-intelligence/hands-deep-learning-pytorch
+```
+
+```
+Deep Learning and Neural Networks in PyTorch for Beginners [Video]
+Daniel We
+Thursday, June 21, 2018
+https://www.packtpub.com/application-development/deep-learning-and-neural-networks-pytorch-beginners-video
+```
+
+```
+Deep Learning with PyTorch
+Vishnu Subramanian
+February 2018
+https://www.packtpub.com/big-data-and-business-intelligence/deep-learning-pytorch
+```
+
+```
+
+
+```
+
+
+
+```
+
+
+```
