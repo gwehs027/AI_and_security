@@ -1,0 +1,5 @@
+Ethernaut 是由 Zeppelin 開發並維護的一個平臺，上面有很多包含了以太坊經典漏洞的合約，以類似 CTF 題目的方式呈現給我們，
+目前已有 19 個挑戰。平臺網址：https://ethernaut.zeppelin.solutions/
+
+完成該項挑戰需要一定的 solidity 語言基礎，以及一點的 javascript 語法基礎。如果對區塊鏈沒有任何基礎，
+推薦根據教程快速學習 solidity 語法，比如 CryptoZombies 等。
