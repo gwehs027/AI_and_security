@@ -194,7 +194,13 @@ Rajesh Arumugam, Rajalingappaa Shanmugamani
 July 2018
 https://www.packtpub.com/big-data-and-business-intelligence/hands-natural-language-processing-python?utm_source=github&utm_medium=repository&utm_campaign=9781789139495
 ```
-
+```
+Building Natural Language Applications with TensorFlow [Video]
+Kaiser Hamid Rabbi
+Wednesday, October 31, 2018
+https://www.packtpub.com/application-development/building-natural-language-applications-tensorflow-video
+https://github.com/PacktPublishing/-Building-Natural-Language-Applications-with-TensorFlow
+```
 # GAN:Generative Adversarial Networks
 
 ```
