@@ -1,51 +1,14 @@
-# Python
+# AI專案
+```
+Real-World Python Deep Learning Projects [Video]
+Jakub Konczyk
+Wednesday, October 31, 2018 
 
-```
-Python for Beginners: Learn Python Programming (Python 3) [Video]
-Monday, October 8, 2018
-https://www.packtpub.com/application-development/python-beginners-learn-python-programming-python-3-video
-```
-```
-Basic and Low-level Python Network Attacks [Video]
-Sam Bowne
-Thursday, August 31, 2017
-https://www.packtpub.com/networking-and-servers/basic-and-low-level-python-network-attacks-video
-```
-
-```
-Python For Offensive PenTest: A Complete Practical Course [Video]
-Hussam Khrais
-Friday, September 15, 2017
-https://www.packtpub.com/application-development/python-offensive-pentest-complete-practical-course-video
-```
-
-```
-Python For Offensive PenTest
-Hussam Khrais
-April 2018
-https://www.packtpub.com/networking-and-servers/python-offensive-pentest
-```
-
-```
-Learning Python Web Penetration Testing [Video]
-Christian Martorella
-Thursday, March 31, 2016
-https://www.packtpub.com/web-development/learning-python-web-penetration-testing-video
-```
-
-```
-Python Digital Forensics [Video]
-Daryl Bennett
-Friday, September 28, 2018
-https://www.packtpub.com/web-development/python-digital-forensics-video
-https://github.com/PacktPublishing/Python-Digital-Forensics
-```
-
-```
-Mastering Machine Learning for Penetration Testing
-Chiheb Chebbi
-June 2018
-https://www.packtpub.com/networking-and-servers/mastering-machine-learning-penetration-testing
+EXPLORING ESSENTIAL DEEP LEARNING TERMS AND TOOLS
+PREDICTING DEMAND FOR AIRLINE TRAVEL
+IDENTIFYING MEAN TWEETS
+DETECTING SMILES IN YOUR CAMERA APP
+PREDICTING STOCK PRICES USING LSTM
 ```
 
 # Python Data analysis
