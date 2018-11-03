@@ -4,6 +4,8 @@ Real-World Python Deep Learning Projects [Video]
 Jakub Konczyk
 Wednesday, October 31, 2018 
 
+https://www.packtpub.com/big-data-and-business-intelligence/real-world-python-deep-learning-projects-video
+
 EXPLORING ESSENTIAL DEEP LEARNING TERMS AND TOOLS
 PREDICTING DEMAND FOR AIRLINE TRAVEL
 IDENTIFYING MEAN TWEETS
