@@ -3,6 +3,10 @@
 TensorFlow - A curated list of dedicated resources http://tensorflow.org
 https://github.com/jtoy/awesome-tensorflow
 ```
+```
+TensorFlow Tutorial and Examples for Beginners with Latest APIs https://tensorflow.org
+https://github.com/aymericdamien/TensorFlow-Examples
+```
 # dataset
 ```
 VisDial dataset:
@@ -12,17 +16,24 @@ VisDial dataset:
 Total 1.2M dialog question-answers
 ```
 
-# GAN
+# GAN 生成對抗網絡（generative adversarial network）
 ```
 AdversarialNetsPapers
 https://github.com/zhangqianhui/AdversarialNetsPapers
 ```
 ```
-heavy_check_mark [1] http://www.iangoodfellow.com/slides/2016-12-04-NIPS.pdf (NIPS Goodfellow Slides)[Chinese Trans][details]
+Ian Goodfellow
+https://buzzorange.com/techorange/2018/03/12/google-super-intern/
+```
 
-heavy_check_mark [2] [PDF](NIPS Lecun Slides)
+```
+NIPS Goodfellow Slides
+http://www.iangoodfellow.com/slides/2016-12-04-NIPS.pdf 
 
-heavy_check_mark [3] [ICCV 2017 Tutorial About GANS]
+NIPS Lecun Slides
+
+ICCV 2017 Tutorial About GANS
+
 ```
 
 #### AC-GAN (Auxiliary Classifier GAN)[2017]:Image-to-Image Translation
