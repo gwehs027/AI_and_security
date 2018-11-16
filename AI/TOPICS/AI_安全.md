@@ -1,3 +1,12 @@
+# AI and Security: Lessons, Challenges & Future Directions
+
+```
+Dawn Song
+UC Berkeley
+
+https://qconsf.com/sf2017/system/files/presentation-slides/dawn-qcon-nov-20172.pdf
+```
+# Models and applications 
 
 - PassGAN: A Deep Learning Approach for Password Guessing
 ```
