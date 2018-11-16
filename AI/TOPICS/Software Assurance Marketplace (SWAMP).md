@@ -15,6 +15,9 @@ The goals for this tutorial are to teach software developers and designers to:
 • Learn how software assurance tools can to help improve the security of their code.
 • Learn about specific tools resources available to them and get initial experience using these resources.
 ```
+
+### SOFTWARE ASSURANCE CONFERENCE 2018 https://continuousassurance.org/2018/11/07/software-assurance-conference-2018/
+
 ```
 SWAMP INSTRUCTIONAL VIDEOS https://continuousassurance.org/2018/11/13/swamp-instructional-videos/
 ```
