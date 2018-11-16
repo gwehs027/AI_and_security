@@ -1,4 +1,24 @@
-# AI
+# AI 應用
+
+### music generation
+
+使用RNN
+```
+
+```
+使用CNN
+```
+
+```
+使用GAN
+```
+MidiNet: A Convolutional Generative Adversarial Network for Symbolic-domain Music Generation
+Li-Chia Yang, Szu-Yu Chou, Yi-Hsuan Yang
+(Submitted on 31 Mar 2017 (v1), last revised 18 Jul 2017 (this version, v2))
+https://arxiv.org/abs/1703.10847
+```
+
+
 
 ## NeuralArt 電腦作畫
 ```
