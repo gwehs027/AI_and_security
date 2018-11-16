@@ -1,5 +1,5 @@
 
--PassGAN: A Deep Learning Approach for Password Guessing
+- PassGAN: A Deep Learning Approach for Password Guessing
 ```
 Briland Hitaj∗, Paolo Gasti†, Giuseppe Ateniese∗ and Fernando Perez-Cruz‡
 ∗Computer Science Department, Stevens Institute of Technology
