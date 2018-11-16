@@ -21,3 +21,40 @@ cCenter for Research on Intelligent Perception and Computing, National Laborator
 Recognition, Institute of Automation, Chinese Academy of Sciences
 
 ```
+
+- Automatic Patch Generation for Security Functional Vulnerabilities with GAN
+```
+Ya Xiao, Danfeng (Daphne) Yao
+Department of Computer Science, Virginia Tech
+{yax99, danfeng} @vt.edu
+```
+
+- Automatic Patch Generation
+
+-
+
+Learning to Repair Software Vulnerabilities with Generative Adversarial Networks
+
+https://arxiv.org/pdf/1805.07475.pdf
+
+- Automatic Patch Generation for Buffer Overflow Attacks
+```
+Alexey Smirnov Tzi-cker Chiueh
+Computer Science Department
+Stony Brook University
+
+```
+
+- Sound Patch Generation for Vulnerabilities[2018]
+```
+Zhen Huang
+z.huang@mail.utoronto.ca
+University of Toronto
+David Lie
+lie@eecg.toronto.edu
+University of Toronto
+
+https://arxiv.org/pdf/1711.11136.pdf
+```
+
+
