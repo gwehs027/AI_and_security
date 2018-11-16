@@ -1,5 +1,7 @@
 # Awesome Recurrent Neural Networks
 
+https://hant.helplib.com/GitHub/article_126190
+
 A curated list of resources dedicated to recurrent neural networks (closely related to *deep learning*).
 
 Maintainers - [Myungsub Choi](https://github.com/myungsub), [Taeksoo Kim](https://github.com/jazzsaxmafia), [Jiwon Kim](https://github.com/kjw0612)
