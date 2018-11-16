@@ -1,6 +1,6 @@
 # AI 應用
 
-### music generation
+## music generation
 
 使用RNN
 ```
