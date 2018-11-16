@@ -17,9 +17,15 @@ Li-Chia Yang, Szu-Yu Chou, Yi-Hsuan Yang
 (Submitted on 31 Mar 2017 (v1), last revised 18 Jul 2017 (this version, v2))
 https://arxiv.org/abs/1703.10847
 ```
+## Facial Landmark Detection
+```
+Style Aggregated Network for Facial Landmark Detection, CVPR 2018
+https://arxiv.org/abs/1803.04108
+http://openaccess.thecvf.com/content_cvpr_2018/papers/Dong_Style_Aggregated_Network_CVPR_2018_paper.pdf
+https://arxiv.org/pdf/1803.04108.pdf
 
-
-
+[PyTorch] https://github.com/D-X-Y/SAN
+```
 ## NeuralArt 電腦作畫
 ```
 https://www.slideshare.net/ckmarkohchang/a-neural-algorithm-of-artistic-style
