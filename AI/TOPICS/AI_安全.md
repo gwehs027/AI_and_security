@@ -35,6 +35,7 @@ The goals for this tutorial are to teach software developers and designers to:
 SWAMP INSTRUCTIONAL VIDEOS https://continuousassurance.org/2018/11/13/swamp-instructional-videos/
 ```
 
+
 https://platform.swampinabox.org/siab-latest-release/extract-installer.bash
 ```
 #!/bin/bash
@@ -70,6 +71,10 @@ echo ""
 tar -xzv --no-same-owner --no-same-permissions -C "$BINDIR" -f "$INSTALLER_TARBALL" || exit_with_error
 echo ""
 echo "The SWAMP-in-a-Box installer can be found in: $INSTALLER_DIR"
+```
+```
+SWAMP-in-a-Box Administrator Manual
+https://platform.swampinabox.org/siab-latest-release/administrator_manual.html
 ```
 # Models and applications 
 
