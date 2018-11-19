@@ -78,8 +78,9 @@ https://platform.swampinabox.org/siab-latest-release/administrator_manual.html
 ```
 # Models and applications 
 
-- PassGAN: A Deep Learning Approach for Password Guessing
+- PassGAN: A Deep Learning Approach for Password Guessing[2018]
 ```
+破解密碼
 Briland Hitaj∗, Paolo Gasti†, Giuseppe Ateniese∗ and Fernando Perez-Cruz‡
 
 https://arxiv.org/pdf/1709.00440.pdf
@@ -115,22 +116,40 @@ This is remarkable, because it shows that PassGAN can autonomously extract a con
 - SSGAN: Secure Steganography Based on Generative Adversarial Networks
 ```
 Haichao Shia,b, Jing Dongc, Wei Wangc, Yinlong Qianc, Xiaoyu Zhanga
-a
-Institute of Information Engineering, Chinese Academy of Sciences
-b
-School of Cyber Security, University of Chinese Academy of Sciences
-cCenter for Research on Intelligent Perception and Computing, National Laboratory of Pattern
+a Institute of Information Engineering, Chinese Academy of Sciences
+b School of Cyber Security, University of Chinese Academy of Sciences
+c Center for Research on Intelligent Perception and Computing, National Laboratory of Pattern
 Recognition, Institute of Automation, Chinese Academy of Sciences
 
+https://arxiv.org/abs/1707.01613
+
+In this paper, a novel strategy of Secure Steganograpy based on Generative Adversarial Networks is proposed 
+to generate suitable and secure covers for steganography. 
+
+The proposed architecture has one generative network, and two discriminative networks. 
+The generative network mainly evaluates the visual quality of the generated images for steganography, 
+and the discriminative networks are utilized to assess their suitableness for information hiding. 
+Different from the existing work which adopts Deep Convolutional Generative Adversarial Networks, 
+we utilize another form of generative adversarial networks. 
+
+By using this new form of generative adversarial networks, significant improvements are made on the convergence speed, 
+the training stability and the image quality. 
+
+Furthermore, a sophisticated steganalysis network is reconstructed for the discriminative network, 
+and the network can better evaluate the performance of the generated images. 
+
+Numerous experiments are conducted on the publicly available datasets to 
+demonstrate the effectiveness and robustness of the proposed method.
 ```
 
 # Automatic Patch Generation
 
 - Automatic Patch Generation for Security Functional Vulnerabilities with GAN
 ```
-Ya Xiao, Danfeng (Daphne) Yao
-Department of Computer Science, Virginia Tech
-{yax99, danfeng} @vt.edu
+Ya Xiao, Danfeng (Daphne) Yao  Department of Computer Science, Virginia Tech
+
+
+
 ```
 
 - Automatic Patch Generation
