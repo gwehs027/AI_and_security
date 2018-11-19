@@ -41,11 +41,11 @@ $ sudo pip3 install -r requirements.txt
 
 ### GAN[2014]
 ```
-•	論文：Generative Adversarial Network
-•	作者：Ian J. Goodfellow、Jean Pouget-Abadie、Mehdi Mirza、Bing Xu、David Warde-Farley、
+•論文：Generative Adversarial Network
+•作者：Ian J. Goodfellow、Jean Pouget-Abadie、Mehdi Mirza、Bing Xu、David Warde-Farley、
       Sherjil Ozair、Aaron Courville 和 Yoshua Bengio
-•	論文下載：https://arxiv.org/abs/1406.2661
-•	程式碼下載：https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/gan/gan.py
+•論文下載：https://arxiv.org/abs/1406.2661
+•程式碼下載：https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/gan/gan.py
 
 
 GAN 最初由 Ian Goodfellow 提出，它有兩個網路：生成器和鑒別器。兩個網路在同一時間進行訓練，並在極小極大（minimax）遊戲中相互博弈。
@@ -76,10 +76,10 @@ $ python3 gan_rgb.py
 ### CGAN[Conditional Generative Adversarial Nets][條件 GAN][2014]
 
 ```
-•	論文：Conditional Generative Adversarial Nets
-•	作者：Mehdi Mirza 和 Simon Osindero
-•	論文下載：https://arxiv.org/abs/1411.1784
-•	程式碼下載：https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/cgan/cgan.py
+•論文：Conditional Generative Adversarial Nets
+•作者：Mehdi Mirza 和 Simon Osindero
+•論文下載：https://arxiv.org/abs/1411.1784
+•程式碼下載：https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/cgan/cgan.py
 
 生成對抗網路近來被引入並作為訓練生成模型的新方法。
 在本論文的研究工作中，作者們介紹了生成對抗網路的的條件約束版，即可以通過資料 y 來構建生成網路，
@@ -101,10 +101,10 @@ $ python3 cgan.py
 ### Auxiliary Classifier GAN
 
 ```
-•	論文：Conditional Image Synthesis With Auxiliary Classifier GANs
-•	作者：Augustus Odena、Christopher Olah 和 Jonathon Shlens
-•	論文下載：https://arxiv.org/abs/1610.09585
-•	程式碼下載：https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/acgan/acgan.py
+•論文：Conditional Image Synthesis With Auxiliary Classifier GANs
+•作者：Augustus Odena、Christopher Olah 和 Jonathon Shlens
+•論文下載：https://arxiv.org/abs/1610.09585
+•程式碼下載：https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/acgan/acgan.py
 
 
 合成高解析度的真實感圖像一直是機器學習中的長期挑戰。
@@ -126,10 +126,10 @@ $ python3 acgan.py
 ```
 ### 對抗自編碼器（Adversarial Autoencoder）
 ```
-•	論文：Adversarial Autoencoders
-•	作者：Alireza Makhzani、Jonathon Shlens、Navdeep Jaitly、Ian Goodfellow 和 Brendan Frey
-•	論文下載：https://arxiv.org/abs/1511.05644
-•	程式碼下載：https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/aae/adversarial_autoencoder.py
+•論文：Adversarial Autoencoders
+•作者：Alireza Makhzani、Jonathon Shlens、Navdeep Jaitly、Ian Goodfellow 和 Brendan Frey
+•論文下載：https://arxiv.org/abs/1511.05644
+•程式碼下載：https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/aae/adversarial_autoencoder.py
 
 
 在這篇論文中，作者們提出了「對抗自編碼器」（AAE），它是一種概率自編碼器，且通過最近提出的生成對抗網路實現變分推斷。
@@ -150,10 +150,10 @@ $ python3 aae.py
 ```
 ### Boundary-Seeking GAN
 ```
-•	論文：Boundary-Seeking Generative Adversarial Networks
-•	作者：R Devon Hjelm、Athul Paul Jacob、Tong Che、Adam Trischler、Kyunghyun Cho 和 Yoshua Bengio
-•	論文下載：https://arxiv.org/abs/1702.08431
-•	程式碼下載：https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/bgan/bgan.py
+•論文：Boundary-Seeking Generative Adversarial Networks
+•作者：R Devon Hjelm、Athul Paul Jacob、Tong Che、Adam Trischler、Kyunghyun Cho 和 Yoshua Bengio
+•論文下載：https://arxiv.org/abs/1702.08431
+•程式碼下載：https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/bgan/bgan.py
 
 
 生成對抗網路（GAN）是一種學習框架，它依賴訓練判別器來度量目標和生成分佈之間的差距。
@@ -176,10 +176,10 @@ $ python3 bgan.py
 ```
 ### Context-Conditional GAN
 ```
-•	論文：Boundary-Seeking Generative Adversarial Networks
-•	作者：Emily Denton、Sam Gross 和 Rob Fergus
-•	論文下載：https://arxiv.org/abs/1702.08431
-•	程式碼下載：https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/ccgan/ccgan.py
+•論文：Boundary-Seeking Generative Adversarial Networks
+•作者：Emily Denton、Sam Gross 和 Rob Fergus
+•論文下載：https://arxiv.org/abs/1702.08431
+•程式碼下載：https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/ccgan/ccgan.py
 
 
 本論文介紹了一種基於圖像的半監督學習方法，它在繪畫中將使用對抗性損失函數。
@@ -204,10 +204,10 @@ $ python3 ccgan.py
 ### CycleGAN[2018]
 
 ```
-•	論文：Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks
-•	作者：Jun-Yan Zhu、Taesung Park、Phillip Isola 和 Alexei A. Efros
-•	論文下載：https://arxiv.org/abs/1703.10593
-•	程式碼下載：https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/cyclegan/cyclegan.py
+•論文：Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks
+•作者：Jun-Yan Zhu、Taesung Park、Phillip Isola 和 Alexei A. Efros
+•論文下載：https://arxiv.org/abs/1703.10593
+•程式碼下載：https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/cyclegan/cyclegan.py
 
 
 圖像到圖像變換是一種視覺和圖像問題，其目標是使用分配圖像配對的訓練集學習輸入圖像和輸出圖像之間的映射。
@@ -238,10 +238,10 @@ $ python3 cyclegan.py
 ### DCGAN(Deep Convolutional GAN)[2016]
 
 ```
-•	論文：Deep Convolutional Generative Adversarial Network
-•	作者：Alec Radford、Luke Metz 和 Soumith Chintala
-•	論文下載：https://arxiv.org/abs/1511.06434
-•	程式碼下載：https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/dcgan/dcgan.py
+•論文：Deep Convolutional Generative Adversarial Network
+•作者：Alec Radford、Luke Metz 和 Soumith Chintala
+•論文下載：https://arxiv.org/abs/1511.06434
+•程式碼下載：https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/dcgan/dcgan.py
 
 
 在 GAN 的第一篇論文出來之後的大概一年時間裡，訓練 GAN 與其說是科學，倒不如說是藝術——模型很不穩定，需要大量調整才能工作。
@@ -266,10 +266,10 @@ $ python3 dcgan.py
 ```
 ### DiscoGAN（學習用生成對抗網路發現跨域關係）[2017]
 ```
-•	論文：Learning to Discover Cross-Domain Relations with Generative Adversarial Networks
-•	作者：Taeksoo Kim、Moonsu Cha、Hyunsoo Kim、Jung Kwon Lee 和 Jiwon Kim
-•	論文下載：https://arxiv.org/abs/1703.05192
-•	程式碼下載：https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/discogan/discogan.py
+•論文：Learning to Discover Cross-Domain Relations with Generative Adversarial Networks
+•作者：Taeksoo Kim、Moonsu Cha、Hyunsoo Kim、Jung Kwon Lee 和 Jiwon Kim
+•論文下載：https://arxiv.org/abs/1703.05192
+•程式碼下載：https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/discogan/discogan.py
 
 
 人類可以輕易地識別不同領域的資料之間的關係而不需要任何的監督，
@@ -295,10 +295,10 @@ $ python3 discogan.py
 
 ### DRAGAN（改善 GAN 的收斂性和穩定性）
 ```
-•	論文：On Convergence and Stability of GANs
-•	作者：Naveen Kodali、Jacob Abernethy、James Hays 和 Zsolt Kira
-•	論文下載：https://arxiv.org/abs/1705.07215
-•	程式碼下載：https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/dragan/dragan.py
+•論文：On Convergence and Stability of GANs
+•作者：Naveen Kodali、Jacob Abernethy、James Hays 和 Zsolt Kira
+•論文下載：https://arxiv.org/abs/1705.07215
+•程式碼下載：https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/dragan/dragan.py
 
 
 通過將 GAN 的訓練動態看成遺憾最小化過程，這和流行的角度相反（真實和生成分佈之間的偏離存在一致最小化）。
@@ -314,10 +314,10 @@ $ python3 dragan.py
 ```
 ### DualGAN
 ```
-•	論文：DualGAN: Unsupervised Dual Learning for Image-to-Image Translation
-•	作者：Zili Yi、Hao Zhang、Ping Tan 和 Minglun Gong
-•	論文下載：https://arxiv.org/abs/1704.02510
-•	程式碼下載：https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/dualgan/dualgan.py
+•論文：DualGAN: Unsupervised Dual Learning for Image-to-Image Translation
+•作者：Zili Yi、Hao Zhang、Ping Tan 和 Minglun Gong
+•論文下載：https://arxiv.org/abs/1704.02510
+•程式碼下載：https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/dualgan/dualgan.py
 
 跨域圖像到圖像變換的條件生成網路在近期取得了很大的進步。
 由於任務的複雜度，訓練一個條件 GAN 需要成千上百萬張標記的圖像。
@@ -344,10 +344,10 @@ $ python3 dualgan.py
 
 ### Least Squares GAN
 ```
-•	論文：Least Squares Generative Adversarial Networks
-•	作者：Xudong Mao、Qing Li、Haoran Xie、Raymond Y.K. Lau、Zhen Wang 和 Stephen Paul Smolley
-•	論文下載：https://arxiv.org/abs/1611.04076
-•	程式碼下載：https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/lsgan/lsgan.py
+•論文：Least Squares Generative Adversarial Networks
+•作者：Xudong Mao、Qing Li、Haoran Xie、Raymond Y.K. Lau、Zhen Wang 和 Stephen Paul Smolley
+•論文下載：https://arxiv.org/abs/1611.04076
+•程式碼下載：https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/lsgan/lsgan.py
 
 
 最近應用生成對抗網路（generative adversarial networks/GAN）的無監督學習被證明是十分成功且有效的。
@@ -375,10 +375,10 @@ $ python3 lsgan.py
 ```
 ### Pix2Pix
 ```
-•	論文：Unpaired Image-to-Image Translation with Conditional Adversarial Networks
-•	作者：Phillip Isola、Jun-Yan Zhu、 Tinghui Zhou 和 Alexei A. Efros
-•	論文下載：https://arxiv.org/abs/1611.07004
-•	程式碼下載：https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/pix2pix/pix2pix.py
+•論文：Unpaired Image-to-Image Translation with Conditional Adversarial Networks
+•作者：Phillip Isola、Jun-Yan Zhu、 Tinghui Zhou 和 Alexei A. Efros
+•論文下載：https://arxiv.org/abs/1611.07004
+•程式碼下載：https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/pix2pix/pix2pix.py
 
 
 Pix2Pix 探索了將條件 GAN 作為圖像到圖像變換問題的通用解決方案的可行性。
@@ -409,19 +409,27 @@ $ python3 pix2pix.py
 ### PixelDA
 
 ```
-•	論文：Unsupervised Pixel-Level Domain Adaptation with Generative Adversarial Networks
-•	作者：Konstantinos Bousmalis、Nathan Silberman、David Dohan、Dumitru Erhan 和 Dilip Krishnan
-•	論文下載：https://arxiv.org/abs/1612.05424
-•	程式碼下載：https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/pixelda/pixelda.py
+•論文：Unsupervised Pixel-Level Domain Adaptation with Generative Adversarial Networks
+•作者：Konstantinos Bousmalis、Nathan Silberman、David Dohan、Dumitru Erhan 和 Dilip Krishnan
+•論文下載：https://arxiv.org/abs/1612.05424
+•程式碼下載：https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/pixelda/pixelda.py
 
 
-對於很多工而言，收集標注良好的圖像資料集來訓練機器學習演算法是代價昂貴的。一個有吸引力的替代方案是渲染合成資料，其中真實標籤是自動生成的。不幸的是，純粹在渲染圖像上訓練的模型通常無法泛化到真實圖像上，為了解決這個弊端，以前的研究通過引入無監督域適應演算法來實現兩個領域的表徵映射，並學習提取域不變的特徵。在 PixelDA 中，作者提出了一個新的方法，以無監督的方式在圖元空間中實現域變換。該基於生成對抗網路的方法將源域的圖像渲染成像是來自目標域的圖像。該方法不僅能生成可信的樣本，還在多個無監督域適應場景中大幅超越了當前最佳方法。最後，研究表明該適應過程可以泛化到訓練過程中未見過的目標類別。
+對於很多工而言，收集標注良好的圖像資料集來訓練機器學習演算法是代價昂貴的。一個有吸引力的替代方案是渲染合成資料，
+其中真實標籤是自動生成的。不幸的是，純粹在渲染圖像上訓練的模型通常無法泛化到真實圖像上，
+為了解決這個弊端，以前的研究通過引入無監督域適應演算法來實現兩個領域的表徵映射，並學習提取域不變的特徵。
+在 PixelDA 中，作者提出了一個新的方法，以無監督的方式在圖元空間中實現域變換。
+該基於生成對抗網路的方法將源域的圖像渲染成像是來自目標域的圖像。
+該方法不僅能生成可信的樣本，還在多個無監督域適應場景中大幅超越了當前最佳方法。
+最後，研究表明該適應過程可以泛化到訓練過程中未見過的目標類別。
 
 
 從 MNIST 到 MNIST-M 的分類性能
 
 
-PixelDA 在 MNIST 上訓練一個分類器，並可以變換到和 MNIST-M 相似的圖像（通過執行無監督的圖像到圖像域適應）。該模型和在 MNIST 上訓練分類器並在 MNIST-M 上評估的樸素方法對比。樸素方法在 MNIST 上取得了 55% 的準確率，而在域適應上訓練的模型獲得了 95% 的分類準確率。
+PixelDA 在 MNIST 上訓練一個分類器，並可以變換到和 MNIST-M 相似的圖像（通過執行無監督的圖像到圖像域適應）。
+該模型和在 MNIST 上訓練分類器並在 MNIST-M 上評估的樸素方法對比。
+樸素方法在 MNIST 上取得了 55% 的準確率，而在域適應上訓練的模型獲得了 95% 的分類準確率。
 
 
 如果當前位址為 PyTorch-GAN/，那麼使用以下命令列將使用 PyTorch 開始訓練：
@@ -444,36 +452,34 @@ $ python3 pixelda.py
 ### Semi-Supervised GAN
 ```
 
-•	論文：Semi-Supervised Learning with Generative Adversarial Networks
-•	作者：Augustus Odena
-•	論文下載：https://arxiv.org/abs/1606.01583
-•	程式碼下載：https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/sgan/sgan.py
+•論文：Semi-Supervised Learning with Generative Adversarial Networks
+•作者：Augustus Odena
+•論文下載：https://arxiv.org/abs/1606.01583
+•程式碼下載：https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/sgan/sgan.py
 
 
-半監督生成對抗網路通過強制判別器網路輸出類別標籤將生成對抗網路（GAN）擴展到半監督情境中。論文作者在一個資料集上訓練了一個生成器 G 和判別器 D，其中每個輸入屬於 N 個類別之一。在訓練時，D 被用於預測輸入屬於 N+1 個類別的哪一個，其中額外的類別對應於 G 的輸出。研究表明該方法可以用於構建一個資料高效的分類器，相比於常規的 GAN，它可以生成更加高品質的樣本。
+半監督生成對抗網路通過強制判別器網路輸出類別標籤將生成對抗網路（GAN）擴展到半監督情境中。
+論文作者在一個資料集上訓練了一個生成器 G 和判別器 D，其中每個輸入屬於 N 個類別之一。
+在訓練時，D 被用於預測輸入屬於 N+1 個類別的哪一個，其中額外的類別對應於 G 的輸出。
+研究表明該方法可以用於構建一個資料高效的分類器，相比於常規的 GAN，它可以生成更加高品質的樣本。
 
 
 如果當前位址為 PyTorch-GAN/，那麼使用以下命令列將使用 PyTorch 開始訓練：
-
-
 $ cd implementations/sgan/
 $ python3 sgan.py
 
 
 如果當前位址為 Keras-GAN/，那麼我們需要使用 Keras 實現訓練：
-
-
 $ cd sgan/
 $ python3 sgan.py
 ```
 ### Super-Resolution GAN
-
 ```
-•	論文：Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
-•	作者：Christian Ledig、Lucas Theis、Ferenc Huszar、Jose Caballero、Andrew Cunningham、
+•論文：Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
+•作者：Christian Ledig、Lucas Theis、Ferenc Huszar、Jose Caballero、Andrew Cunningham、
 Alejandro Acosta、Andrew Aitken、Alykhan Tejani、Johannes Totz、Zehan Wang 和 Wenzhe Shi
-•	論文下載：https://arxiv.org/abs/1609.04802
-•	程式碼下載：https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/srgan/srgan.py
+•論文下載：https://arxiv.org/abs/1609.04802
+•程式碼下載：https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/srgan/srgan.py
 
 
 儘管使用更快和更深的卷積神經網路在單張圖像超解析度上已經得到了準確率和速度的突破，仍然有一個中心問題為得到解決：
@@ -500,24 +506,21 @@ $ python3 srgan.py
 
 第一行由 SRGAN 生成，第二行是全解析度圖像。
 ```
-### Wasserstein GAN（WGAN）
+### Wasserstein GAN（WGAN）[2017]
 ```
-•	論文：Wasserstein GAN
-•	作者：Martin Arjovsky, Soumith Chintala, Léon Bottou
-•	論文下載：https://arxiv.org/abs/1701.07875
-•	程式碼下載：https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/wgan/wgan.py
+•論文：Wasserstein GAN
+•作者：Martin Arjovsky, Soumith Chintala, Léon Bottou
+•論文下載：https://arxiv.org/abs/1701.07875
+•程式碼下載：https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/wgan/wgan.py
 
 
 通過改變損失函數以包含 Wasserstein 距離，WGAN 具有與圖像品質相關的損失函數。此外，訓練穩定性也提高了，而且不依賴於架構。
 
 
 GAN 一直在收斂性方面存在問題，結果是，你不知道何時停止訓練。換句話說，損失函數與圖像品質不相關。這是一個頭痛的大問題，因為：
-
-
 •	你需要不斷查看樣本，以瞭解你的模型是否在正確訓練。
 •	你不知道何時應該停止訓練（沒有收斂）。
 •	你沒有一個量化數值告訴你調整參數的效果如何。
-
 
 GAN 可被解釋以最小化 Jensen-Shannon 發散，如果真和假的分佈不重疊（通常是這種情況），則它為 0。
 所以，作者使用了 Wasserstein 距離，而不是最小化 JS 發散，它描述了從一個分佈到另一個分佈的「點」之間的距離。
@@ -532,15 +535,13 @@ $ python3 wgan.py
 如果當前位址為 Keras-GAN/，那麼我們需要使用 Keras 實現訓練：
 $ cd wgan/
 $ python3 wgan.py
-
 ```
-### Wasserstein GAN GP
+### Wasserstein GAN GP[2017]
 ```
-•	論文：Improved Training of Wasserstein GANs
-•	作者：Ishaan Gulrajani, Faruk Ahmed, Martin Arjovsky, Vincent Dumoulin, Aaron Courville
-•	論文下載：https://arxiv.org/abs/1704.00028
-•	程式碼下載：https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/wgan_gp/wgan_gp.py
-
+•論文：Improved Training of Wasserstein GANs
+•作者：Ishaan Gulrajani, Faruk Ahmed, Martin Arjovsky, Vincent Dumoulin, Aaron Courville
+•論文下載：https://arxiv.org/abs/1704.00028
+•程式碼下載：https://github.com/eriklindernoren/PyTorch-GAN/blob/master/implementations/wgan_gp/wgan_gp.py
 
 生成對抗網路（GAN）是很強大的生成模型，但會遭遇訓練不穩定的問題。
 最近提出的 WGAN 提高了 GAN 的訓練穩定性，但有時候仍然會生成低品質的樣本或無法收斂。
@@ -551,7 +552,6 @@ $ python3 wgan.py
 
 
 如果當前位址為 PyTorch-GAN/，那麼使用以下命令列將使用 PyTorch 開始訓練：
-
 $ cd implementations/wgan_gp/
 $ python3 wgan_gp.py
 ```
