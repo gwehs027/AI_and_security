@@ -112,28 +112,35 @@ Department of Computer Science, Virginia Tech
 
 - Automatic Patch Generation
 
-- Learning to Repair Software Vulnerabilities with Generative Adversarial Networks
+- Learning to Repair Software Vulnerabilities with Generative Adversarial Networks[2018]
 
 https://arxiv.org/pdf/1805.07475.pdf
 
 - Automatic Patch Generation for Buffer Overflow Attacks
 ```
 Alexey Smirnov Tzi-cker Chiueh
-Computer Science Department
-Stony Brook University
+Computer Science Department  Stony Brook University
 
 ```
 
 - Sound Patch Generation for Vulnerabilities[2018]
 ```
-Zhen Huang
-z.huang@mail.utoronto.ca
-University of Toronto
-David Lie
-lie@eecg.toronto.edu
-University of Toronto
+Zhen Huang University of Toronto
+David Lie  University of Toronto
 
 https://arxiv.org/pdf/1711.11136.pdf
 ```
 
+- Automated Vulnerability Detection in Source Code Using Deep Representation Learning[2018]
+```
+Rebecca L. Russell, Louis Kim, Lei H. Hamilton, Tomo Lazovich, Jacob A. Harer, Onur Ozdemir, Paul M. Ellingwood, Marc W. McConley
+https://arxiv.org/abs/1807.04320
+```
 
+- Automated software vulnerability detection with machine learning[2018]
+```
+Jacob A. Harer, Louis Y. Kim, Rebecca L. Russell, Onur Ozdemir, Leonard R. Kosta, Akshay Rangamani, 
+Lei H. Hamilton, Gabriel I. Centeno, Jonathan R. Key, Paul M. Ellingwood, Erik Antelman, Alan Mackay, 
+Marc W. McConley, Jeffrey M. Opper, Peter Chin, Tomo Lazovich
+https://arxiv.org/abs/1803.04497
+```
