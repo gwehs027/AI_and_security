@@ -101,6 +101,8 @@ Recognition, Institute of Automation, Chinese Academy of Sciences
 
 ```
 
+# Automatic Patch Generation
+
 - Automatic Patch Generation for Security Functional Vulnerabilities with GAN
 ```
 Ya Xiao, Danfeng (Daphne) Yao
@@ -110,9 +112,7 @@ Department of Computer Science, Virginia Tech
 
 - Automatic Patch Generation
 
--
-
-Learning to Repair Software Vulnerabilities with Generative Adversarial Networks
+- Learning to Repair Software Vulnerabilities with Generative Adversarial Networks
 
 https://arxiv.org/pdf/1805.07475.pdf
 
