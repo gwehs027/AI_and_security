@@ -10,6 +10,7 @@ https://github.com/eriklindernoren/PyTorch-GAN
 作者：eriklindernoren 
 機器之心編譯
 參與：劉曉坤、思源、李澤南
+https://blog.csdn.net/j2IaYU7Y/article/details/80090150
 ```
 ```
 生成對抗網路一直是非常美妙且高效的方法，
