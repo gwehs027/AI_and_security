@@ -73,7 +73,7 @@ Keras 示例 2：如果當前位址為 Keras-GAN/，那麼我們需要使用 Ker
 $ cd gan/
 $ python3 gan_rgb.py
 ```
-### 條件 GAN[2014]
+### CGAN[Conditional Generative Adversarial Nets][條件 GAN][2014]
 
 ```
 •	論文：Conditional Generative Adversarial Nets
