@@ -1,5 +1,9 @@
 # GAN的PyTorch+Keras實作
 ```
+eriklindernoren/PyTorch-GAN
+https://github.com/eriklindernoren/PyTorch-GAN
+```
+```
 這些資源你肯定需要！超全的GAN PyTorch+Keras實現集合
 2018年04月26日 00:00:00 IT派 閱讀數：1184
 選自GitHub
