@@ -17,14 +17,12 @@ https://blog.csdn.net/j2IaYU7Y/article/details/80090150
 自 2014 年 Ian Goodfellow 等人提出第一個生成對抗網路以來，各種變體和修正版如雨後春筍般出現，它們都有各自的特性和對應的優勢。
 
 本文介紹了主流的生成對抗網路及其對應的 PyTorch 和 Keras 實現代碼，希望對各位讀者在 GAN 上的理解與實現有所幫助。
-•	PyTorch 實現地址：https://github.com/eriklindernoren/PyTorch-GAN
-•	Keras 實現地址：https://github.com/eriklindernoren/Keras-GAN
-
+•PyTorch 實現地址：https://github.com/eriklindernoren/PyTorch-GAN
+•Keras 實現地址：https://github.com/eriklindernoren/Keras-GAN
 
 生成對抗網路及其變體的實現分為基於 Keras 和基於 PyTorch 兩個版本。
 它們都是按照原論文實現的，但模型架構並不一定完全和原論文相同，作者關注于實現這些論文最核心的思想，
 而並不確定所有層級的配置都和原論文完全一致。本文首先將介紹各種 GAN 的論文摘要，然後提供詳細論文和實現的地址。
-
 
 要使用 PyTorch 或 Keras 實現這些 GAN，我們首先需要下載兩個代碼倉庫，並安裝對應所需的依賴包。
 ```
