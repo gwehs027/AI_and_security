@@ -1,5 +1,21 @@
 ### 2018.9:人工智慧與資訊安全
 
+
+### 人工智慧線上資源
+```
+DeepMind 發佈日期：2018年11月23日
+
+Advanced Deep Learning & Reinforcement Learning(18堂課)
+https://www.youtube.com/watch?v=iOh7QUZGyiU&list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs
+
+
+Google's Deep Mind Explained! - Self Learning A.I.
+https://www.youtube.com/watch?v=TnUYcTuZJpM
+
+Google Data Center
+https://www.youtube.com/watch?v=j3knIXR-KHQ
+```
+
 ### 參考書
 ```
 初探深度學習｜使用 TensorFlow (TensorFlow for Deep Learning: From Linear Regression to Reinforcement Learning) 
