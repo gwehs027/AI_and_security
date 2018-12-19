@@ -19,7 +19,8 @@ Keras深度学习实战
 
 深度学习：Keras快速开发入门
 乐毅  
-
+https://github.com/yanchao727
+https://github.com/yanchao727/keras_book
 
 深度学习基于Keras的Python实践
 魏贞原    电子工业出版社 
@@ -30,6 +31,8 @@ https://detail.tmall.com/item.htm?spm=a230r.1.14.74.19b476cdk9La3Q&id=5725933102
 ```
 深度学习：Keras快速开发入门
 乐毅  
+https://github.com/yanchao727
+
 
 第1章 Keras概述 1
 1.1 Keras簡介 1
