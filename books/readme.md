@@ -26,6 +26,11 @@ https://github.com/yanchao727/keras_book
 魏贞原    电子工业出版社 
 https://detail.tmall.com/item.htm?spm=a230r.1.14.74.19b476cdk9La3Q&id=572593310220&ns=1&abbucket=3
 
+
+Python機器學習(第二版)  中文書 , Sebastian Raschka   Vahid Mirjalili   劉立民   吳建華 , 博碩 , 出版日期: 2018-08-30
+
+Python深度學習  中文書 , Daniel Slater   Gianmario Spacagna   Valentino Zocca   劉立民   吳建華   陳開煇   Peter Roelants , 博碩 , 出版日期: 2018-01-05
+
 ```
 
 ```
