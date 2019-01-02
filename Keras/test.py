@@ -1,3 +1,5 @@
+https://colab.research.google.com/drive/1pS5KK6PYKM1Wg2GRaXuJhmJXBPrfT7JB
+
 '''Example of autoencoder model on MNIST dataset using 2dim latent
 
 The autoencoder forces the encoder to discover 2-dim latent vector
