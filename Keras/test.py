@@ -1,4 +1,8 @@
 https://colab.research.google.com/drive/1pS5KK6PYKM1Wg2GRaXuJhmJXBPrfT7JB
+  
+
+  第一周最簡單的GAN
+  9781789139907_Code\9781789139907_Code\Chapter03\full-gan
 
 '''Example of autoencoder model on MNIST dataset using 2dim latent
 
