@@ -1,3 +1,7 @@
+# 教科書網址
+```
+https://github.com/PacktPublishing/Generative-Adversarial-Networks-Cookbook
+```
 # TensorFlow
 ```
 TensorFlow - A curated list of dedicated resources http://tensorflow.org
