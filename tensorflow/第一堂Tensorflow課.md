@@ -1,11 +1,11 @@
 # 第一堂Tensorflow課
 ```
-Tensor
-Tensor的屬性
-Tensor的運算
+1.Tensor
+2.Tensor的屬性
+3.Tensor的運算
 ```
 
-# 張量:
+# 1.張量:constant常數與Variable變數
 
 張量的意義==>詳見簡報
 
@@ -34,6 +34,64 @@ import tensorflow as tf
 
 t=tf.constant([1,3,5,7,9],tf.float32,name='t')
 print(t)
+```
+### Tensor與numpy的ndarray互換
+
+Tensor==>ndarray
+```
+# -*- coding: utf-8 -*-
+import tensorflow as tf
+#"一維張量"
+t=tf.constant([1,2,3],tf.float32)
+
+#"創建會話"
+session=tf.Session()
+#"張量轉換為ndarray"
+array=session.run(t)
+
+#"列印其資料結構類型及對應值"
+print(type(t))
+print(t)
+print(type(array))
+print(array)
+```
+
+ndarray==>Tensor
+```
+# -*- coding: utf-8 -*-
+import tensorflow as tf
+import numpy as np
+#"一維的ndarray"
+array=np.array([1,2,3],np.float32)
+
+#"ndarray轉換為tensor"
+t=tf.convert_to_tensor(array,tf.float32,name='t')
+
+#"列印張量"
+print(array)
+print(t)
+```
+# 2.Tensor的屬性==>維數(階)[dim/rank]、形狀(shape)和資料類型
+
+### 維數(階)[dim/rank]形狀(shape)
+```
+# -*- coding: utf-8 -*-
+import tensorflow as tf
+#"張量"
+t=tf.constant(
+        [
+        [1,2,3],
+        [4,5,6]
+        ]
+        ,tf.float32)
+#"張量的形狀"
+s=tf.shape(t)
+r=tf.rank(t)
+
+session=tf.Session()
+print('張量的內容是:',session.run(t))
+print('張量的形狀是:',session.run(s))
+print('張量的維度是:',session.run(r))
 ```
 
 ### 將圖像資料轉為Tensor
@@ -64,13 +122,12 @@ image_ndarray=image_tensor.eval(session=session)
 plt.imshow(image_ndarray)
 plt.show()
 ```
-# 張量的屬性
-
-```
-
-```
 
 # 張量的運算
+```
+單一Tensor的運算:
+多Tensor的各種運算
+```
 
 ### 張量的乘法運算
 ```
