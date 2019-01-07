@@ -128,8 +128,43 @@ plt.show()
 單一Tensor的運算:
 多Tensor的各種運算
 ```
+### 單一Tensor的運算:型態轉換
+```
+# -*- coding: utf-8 -*-
+import tensorflow as tf
+#"張量"
+t=tf.constant(
+        [
+        [1,0,3],
+        [0,0,0]
+        ]
+        ,tf.float32)
+#"數值型轉換為bool類型"
+r=tf.cast(t,tf.bool)    
 
-### 張量的乘法運算
+
+session=tf.Session()
+print(session.run(r))
+```
+
+```
+# -*- coding: utf-8 -*-
+import tensorflow as tf
+#"張量"
+t=tf.constant(
+        [
+        [False,True,False],
+        [False,False,True]
+        ]
+        ,tf.bool)
+#"bool型轉換為數值型"
+r=tf.cast(t,tf.float32)        
+
+
+session=tf.Session()
+print(session.run(r))
+```
+### 多Tensor的加法運算
 ```
 import tensorflow as tf
 
@@ -154,5 +189,30 @@ result=x+y
 # 定義Model==>執行Model運算
 session=tf.Session()
 print(session.run(result))
+```
+
+### 多Tensor的乘法運算
+
+```
+# -*- coding: utf-8 -*-
+import tensorflow as tf
+
+#"2行2列的矩陣"
+x=tf.constant(
+        [[1,2],[3,4]]
+        ,tf.float32
+        )
+
+#"2行1列的矩陣"
+w=tf.constant([[-1],[-2]],tf.float32)
+
+#"矩陣的乘法"
+y=tf.matmul(x,w)
+
+#"創建會話"
+session=tf.Session()
+
+#"列印矩陣相乘後的結果"
+print(session.run(y))
 
 ```
