@@ -25,8 +25,8 @@ tf.constant(
 ```
 ### 建立一個常數Creates a constant tensor
 ```
-
-
+import tensorflow as tf
+print(tf.__version__)
 ```
 
 ```
@@ -91,12 +91,11 @@ y=tf.constant(
         [[3,2],[5,3]]
         ],tf.float32
         )
-
-session=tf.Session()
-
-#"x與y的和"
+#待執行的運算:"x與y的和"
 result=x+y
 
+# 定義Model==>執行Model運算
+session=tf.Session()
 print(session.run(result))
 
 ```
