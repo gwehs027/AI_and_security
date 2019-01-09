@@ -1,6 +1,10 @@
 ### 推薦
 ```
+Python Data Analytics
+Fabio Nelli 
+http://www.apress.com/9781484209592
 
+https://github.com/Apress/python-data-analytics
 ```
 
 ```
