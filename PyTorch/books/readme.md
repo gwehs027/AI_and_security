@@ -1,4 +1,13 @@
+```
+深度学习框架PyTorch快速开发与实战
+邢梦来 (作者)　 
+书　　号：978-7-121-34564-7
+出版日期：2017-08-01
+http://www.broadview.com.cn/book/5273
 
+下载资源
+资源下载-深度学习框架Pytorch快速开发与实践.zip
+```
 ```
 [已買]Deep Learning with PyTorch
 Vishnu Subramanian
