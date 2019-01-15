@@ -1,6 +1,7 @@
 # 科學運算的python:scipy
 
 ```
+可直接在Google Colab上跑
 功能:
 內插法
 統計分析
