@@ -1,7 +1,27 @@
 # 梯度與梯度下降法
 ### 梯度
-```
 
+```
+F(x1,x2)=(3*x1+4*x2)**2  計算F在點(2,3)處的梯度
+```
+```
+# -*- coding: utf-8 -*-
+import tensorflow as tf
+import numpy as np
+
+#"首先將變數初始化:梯度下降的初始點"
+x=tf.placeholder(tf.float32,(2,1))
+
+w=tf.constant([[3,4]],tf.float32)
+y=tf.matmul(w,x)
+
+F=tf.pow(y,2)
+
+grads=tf.gradients(F,x)
+
+#"創建會話"
+session=tf.Session()
+print(session.run(grads,{x:np.array([[2],[3]])}))
 ```
 ### 優化器 (Optimizers)與梯度下降法
 
