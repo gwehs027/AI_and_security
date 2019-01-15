@@ -1,0 +1,16 @@
+```
+Real-World Machine Learning Projects with Scikit-Learn [Video]
+Nikola Živković
+Friday, August 31, 2018
+
+https://www.packtpub.com/big-data-and-business-intelligence/real-world-machine-learning-projects-scikit-learn-video
+```
+
+```
+PREDICTING THE WINE QUALITY USING MULTIPLE LINEAR REGRESSION
+BIKE SHARING DEMAND PREDICTION USING REGRESSION TREES
+HEART DISEASE PREDICTIONS WITH SUPPORT VECTOR MACHINES
+POKER HAND PREDICTIONS WITH K-MEANS CLUSTERING
+UNDERSTANDING BUYING BEHAVIOR USING HIERARCHICAL CLUSTERING
+
+```
