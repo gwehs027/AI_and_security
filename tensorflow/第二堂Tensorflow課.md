@@ -203,43 +203,71 @@ plt.show()
 https://colab.research.google.com/drive/1hWvr_wY4lzoiYzQZhcbQu6AsdOLaOSAd
 ```
 
+### AdagradOptimizer 
 ```
 # -*- coding: utf-8 -*-
 import tensorflow as tf
+#"初始化變數x的值"
+x=tf.Variable(tf.constant([[4],[3]],tf.float32),dtype=tf.float32)
+w=tf.constant([[1,2]],tf.float32)
+y=tf.reduce_sum(tf.matmul(w,tf.square(x)))
+#"Adagrad的梯度下降法"
+opti=tf.train.AdagradOptimizer(0.25,0.1).minimize(y)
+session=tf.Session()
+init=tf.global_variables_initializer()
+session.run(init)
+#"列印前三次的反覆運算結果"
+for i in range(3):
+    session.run(opti)
+    print(session.run(x))
+```
 
-#"第1個Variable，初始化為一個長度為3的一維張量"
-v1=tf.Variable(tf.constant([1,2,3],tf.float32),dtype=tf.float32,name='v1')
+# Fully connected neural network
 
-#"第2個Variable，初始化為一個長度為2的一維張量"
-v2=tf.Variable(tf.constant([4,5],tf.float32),dtype=tf.float32,name='v2')
+```
+# -*- coding: utf-8 -*-
+import tensorflow as tf
+import numpy as np
+#"輸入層"
+x=tf.placeholder(tf.float32,(2,None))
+#"第1層的權重矩陣"
+w1=tf.constant(
+        [[1,4,7],
+        [2,6,8]],tf.float32
+        )
+#"第1層的偏置"
+b1=tf.constant(
+        [
+        [-4],
+        [2],
+        [1]
+        ],tf.float32
+        )
+#"計算第1層的線性組合"
+l1=tf.matmul(w1,x,True)+b1
+#"啟動 2*x"
+sigma1=2*l1
 
-#"宣告一個tf.train.Saver物件"
-saver =tf.train.Saver()
+#"第2層的權重矩陣"
+w2=tf.constant(
+        [[2,3],
+         [1,-2],
+         [-1,1]
+         ],tf.float32
+        )
+#"第2層的偏置"
+b2=tf.constant(
+        [[5],[-3]],tf.float32
+        )
 
+#"計算第1層的線性組合"
+l2=tf.matmul(w2,sigma1,True)+b2
+#"啟動 2*x"
+sigma2=2*l2
 
 #"創建會話"
 session=tf.Session()
-#"初始化變數"
-session.run(tf.global_variables_initializer())
+#"令x=[[3],[5]]"
+print(session.run(sigma2,{x:np.array([[3],[5]],np.float32)}))
 
-#"將變數 v1 和 v2 保存到當前資料夾下的model.ckpt文件中"
-save_path=saver.save(session,'./model.ckpt')
-session.close()
-```
-
-```
-# -*- coding: utf-8 -*-
-import tensorflow as tf
-#"初始化變數2個變數，形狀與model.cpkt檔中變數是必須相等的"
-v1=tf.Variable([11,12,13],dtype=tf.float32,name='v1')
-v2=tf.Variable([15,16],dtype=tf.float32,name='v2')
-#"聲明一個tf.train.Saver類"
-saver =tf.train.Saver()
-with tf.Session() as sess:
-    #"載入model.ckpt文件"
-    saver.restore(sess,'./model.ckpt')
-    #"列印兩個變數的值"
-    print(sess.run(v1))
-    print(sess.run(v2))
-sess.close()
 ```
