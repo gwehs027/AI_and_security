@@ -230,12 +230,12 @@ import tensorflow as tf
 import numpy as np
 #"輸入層"
 x=tf.placeholder(tf.float32,(2,None))
-#"第1層的權重矩陣"
+#"第1層的權重矩陣"weight
 w1=tf.constant(
         [[1,4,7],
         [2,6,8]],tf.float32
         )
-#"第1層的偏置"
+#"第1層的偏置"bias
 b1=tf.constant(
         [
         [-4],
